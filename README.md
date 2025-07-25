@@ -77,8 +77,6 @@ Manual inspection of coffee beans is time-consuming, subjective, and prone to in
 
 ### 🔹 Confusion Matrix Accuracy
 
-- ✅ **Perfect Accuracy (1.00)**: Broken, Dry Cherry, Good, etc.
-- 🟡 **Some Confusion**: Foreign Matter, Partial Sour, Background
 - 📌 Suggests potential improvement with more augmentation and clearer labeling.
 
 ### 🔹 F1-Confidence Curve
